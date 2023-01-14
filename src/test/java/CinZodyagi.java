@@ -4,7 +4,7 @@ public class CinZodyagi {
     public static void main(String[] args) {
 
         int odd,birthYear;
-        String zodiac = "";
+        String zodiac = null;
 
         Scanner input = new Scanner(System.in);
         System.out.print("Doğum yılınızı giriniz: ");
